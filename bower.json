@@ -1,0 +1,16 @@
+{
+  "name": "impress-step-timer",
+  "private": "true",
+  "version": "0.0.1",
+  "authors": [
+    "Vasileios Triglianos"
+  ],
+  "description": "Adds a countdown timer to slides.",
+  "main": "impress-step-timer.js",
+  "keywords": [
+    "impress.js",
+    "countdown",
+    "timer"
+  ],
+  "license": "MIT"
+}
