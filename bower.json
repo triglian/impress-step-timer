@@ -5,8 +5,15 @@
   "authors": [
     "Vasileios Triglianos"
   ],
-  "description": "Adds a countdown timer to slides.",
+  "description": "Adds a countdown timer to impress.js slides.",
   "main": "impress-step-timer.js",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
   "keywords": [
     "impress.js",
     "countdown",
